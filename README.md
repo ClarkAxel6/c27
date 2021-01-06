@@ -1,2 +1,2 @@
-# c27
-elastic string thingy which constrains (haha yes im smort)
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
